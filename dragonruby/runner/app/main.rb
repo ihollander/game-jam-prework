@@ -115,7 +115,6 @@ $runner = Runner.new
 
 # main DragonRuby game loop
 def tick args
-  print self.public_methods.sort.to_s + "\r" if args.game.tick_count % 5000 == 1
   # pass info from DragonRuby tick to game instance
   $runner.game    = args.game
   $runner.grid    = args.grid
