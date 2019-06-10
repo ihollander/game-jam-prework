@@ -8,11 +8,16 @@ The goal of this prework is to provide resources on getting started with making 
 
 Game logic is difficult, so in order to have a successful game jam, we highly recommend picking a game engine for your team to work with. Game engines provide a lot of tools for handling lower level features like physics and game loop logic so you can focus on game design and making something awesome. Here are the tools we'd recommend, broken down by language. Feel free to go outside the box if there's something else you're familiar with!
 
+- [Pygame (Python)](#pygame-python)
+- [Phaser 3 (Javascript)](#phaser-3-javascript)
+- [DragonRuby (Ruby)](#dragonruby-ruby)
+- [GameMaker Studio 2 (Drag and drop)](#GameMaker-Studio-2-Drag-and-drop)
+
 --- 
 
 ### Pygame _(Python)_
-Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language [^fn2]. Pygame uses the Simple DirectMedia Layer (SDL) library, with the intention of allowing real-time computer gamedevelopment without the low-level mechanics of the C programming language and its derivatives. 
-[^fn2]: https://en.wikipedia.org/wiki/Pygame
+Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language. Pygame uses the Simple DirectMedia Layer (SDL) library, with the intention of allowing real-time computer gamedevelopment without the low-level mechanics of the C programming language and its derivatives. 
+https://en.wikipedia.org/wiki/Pygame
 
 #### Pros
 - Straight-forward, easy to understand
@@ -37,8 +42,8 @@ https://www.pygame.org/docs/
 --- 
 
 ### Phaser 3 _(Javascript)_
-Phaser is a fast, free, and fun open source HTML5 game framework that offers WebGL and Canvas rendering across desktop and mobile web browsers. Games can be compiled to iOS, Android and native apps by using 3rd party tools. You can use JavaScript or TypeScript for development. [^fn1]
-[^fn1]: https://github.com/photonstorm/phaser/tree/v3.17.0
+Phaser is a fast, free, and fun open source HTML5 game framework that offers WebGL and Canvas rendering across desktop and mobile web browsers. Games can be compiled to iOS, Android and native apps by using 3rd party tools. You can use JavaScript or TypeScript for development.
+https://github.com/photonstorm/phaser/tree/v3.17.0
 
 #### Pros
 - Lots of documentation/tutorials
@@ -78,8 +83,8 @@ Small, fast engine for making 2D games in Ruby.
 
 ### GameMaker Studio 2 _(Drag and drop)_
 
-GameMaker accommodates the creation of cross-platform and multi-genre video games using a custom drag-and-drop visual programming language or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features. [^fn4]
-[^fn4]: https://en.wikipedia.org/wiki/GameMaker_Studio
+GameMaker accommodates the creation of cross-platform and multi-genre video games using a custom drag-and-drop visual programming language or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features. 
+https://en.wikipedia.org/wiki/GameMaker_Studio
 
 #### Pros
 - Easy to use
