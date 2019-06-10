@@ -60,6 +60,9 @@ https://photonstorm.github.io/phaser3-docs/index.html
 - [Video Tutorial](https://www.youtube.com/watch?v=7cpZ5Y7THmo)
 - [Webpack starter template](https://github.com/photonstorm/phaser3-project-template)
 
+#### Sample Game
+- [Platformer](/phaser)
+
 ---
 
 ### DragonRuby _(Ruby)_
@@ -75,8 +78,6 @@ Small, fast engine for making 2D games in Ruby.
 
 #### Tutorial
 - [Video](https://wndx.school/p/dragon-ruby-game-toolkit-tutorial)
-
-#### Sample Game
 - [Endless Runner](/dragonruby)
 
 --- 
