@@ -76,6 +76,9 @@ Small, fast engine for making 2D games in Ruby.
 - Fairly new, not much documentation/tutorials
 - No free version ($40 for licence)
 
+#### Documentation
+https://dragonruby.itch.io/dragonruby-gtk
+
 #### Tutorial
 - [Video](https://wndx.school/p/dragon-ruby-game-toolkit-tutorial)
 - [Endless Runner](/dragonruby)

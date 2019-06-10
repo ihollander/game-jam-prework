@@ -57,7 +57,9 @@ Renders a solid rectangle with a given color.
 - _r,b,g,a_: RGBA colors (0-255)
 
 ### `args.outputs.sounds`
-TK
+Plays sound file (.wav or .ogg)
+
+```"filename.wav"```
 
 ### `args.outputs.sprites`
 Renders an image sprite (png only?)
