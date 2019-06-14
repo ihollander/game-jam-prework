@@ -13,6 +13,20 @@ Game logic is difficult, so in order to have a successful game jam, we highly re
 - [DragonRuby (Ruby)](#dragonruby-ruby)
 - [GameMaker Studio 2 (Drag and drop)](#GameMaker-Studio-2-Drag-and-drop)
 
+## Additional Resources
+
+### Sound Libraries
+- https://freesound.org/browse/
+- http://soundbible.com/free-sound-effects-1.html
+- https://www.zapsplat.com/sound-effect-categories
+- https://www.audioblocks.com/royalty-free-audio/sound-effects
+
+### Free Music
+- https://www.bensound.com/
+- http://freemusicarchive.org/
+- https://www.purple-planet.com/
+- https://www.hooksounds.com/
+
 --- 
 
 ### Pygame _(Python)_
