@@ -27,6 +27,13 @@ Game logic is difficult, so in order to have a successful game jam, we highly re
 - https://www.purple-planet.com/
 - https://www.hooksounds.com/
 
+### Art
+
+#### Tiled (2D and Isomorphic level editor)
+- https://www.mapeditor.org/
+- https://www.gamefromscratch.com/post/2015/10/14/Tiled-Map-Editor-Tutorial-Series.aspx
+
+
 --- 
 
 ### Pygame _(Python)_
@@ -73,6 +80,7 @@ https://photonstorm.github.io/phaser3-docs/index.html
 - [Getting Started](http://phaser.io/tutorials/making-your-first-phaser-3-game/part1)
 - [Video Tutorial](https://www.youtube.com/watch?v=7cpZ5Y7THmo)
 - [Webpack starter template](https://github.com/photonstorm/phaser3-project-template)
+- [Working with Tilemaps](https://github.com/mikewesthad/phaser-3-tilemap-blog-posts)
 
 #### Sample Game
 - [Platformer](/phaser)
