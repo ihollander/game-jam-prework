@@ -29,6 +29,14 @@ Game logic is difficult, so in order to have a successful game jam, we highly re
 
 ### Art
 
+#### Assets
+- https://itch.io/game-assets/free
+
+#### Sprites/Pixel Art Editors
+- https://www.piskelapp.com/
+- https://www.pixilart.com/
+- https://www.aseprite.org/
+
 #### Tiled (2D and Isomorphic level editor)
 - https://www.mapeditor.org/
 - https://www.gamefromscratch.com/post/2015/10/14/Tiled-Map-Editor-Tutorial-Series.aspx
