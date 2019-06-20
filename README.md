@@ -87,6 +87,7 @@ https://photonstorm.github.io/phaser3-docs/index.html
 #### Tutorials
 - [Getting Started](http://phaser.io/tutorials/making-your-first-phaser-3-game/part1)
 - [Video Tutorial](https://www.youtube.com/watch?v=7cpZ5Y7THmo)
+- [In Depth Tutorial](https://www.codecademy.com/learn/learn-phaser)
 - [Webpack starter template](https://github.com/photonstorm/phaser3-project-template)
 - [Working with Tilemaps](https://github.com/mikewesthad/phaser-3-tilemap-blog-posts)
 
