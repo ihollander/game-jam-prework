@@ -91,7 +91,7 @@ class Runner
 ```
 
 Your game should now look something like this:
-![01](./assets/01.png?raw=true "Floor")
+![01](./runner/assets/01.png?raw=true "Floor")
 
 Now we'll add some obstacles to our game state. We'll have some default values to set our initial game state: a counter to check when we need to add a new obstacle, and an array to keep track of all the obstacles on the screen. Each tick of the game, we'll recalculate the state for these obstacles:
 
@@ -154,7 +154,7 @@ def render
 ```
 
 Now our game has some obstacles:
-![02](./assets/02.png?raw=true "Obstacles")
+![02](./runner/assets/02.png?raw=true "Obstacles")
 
 ## 02. Player
 Now we can create player! Add a position to our game state to give our player starting coordinates:
@@ -188,7 +188,7 @@ end
 ```
 
 With our player added, the game should look like:
-![02](./assets/03.png?raw=true "Player")
+![02](./runner/assets/03.png?raw=true "Player")
 
 In order to make the player jump, we'll need to get access to the inputs argument from the main DragonRuby `tick` method. Update our `attr_accessors` to include inputs and pass them in from the `tick` method:
 
